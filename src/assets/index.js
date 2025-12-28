@@ -7,28 +7,25 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import html from "./tech/HTML.png";
+import css from "./tech/CSS.png";
+import tailwind from "./tech/TAILWINDCSS.png";
+import javascript from "./tech/JAVASCRIPT.png";
+import typescript from "./tech/TYPESCRIPT.png";
+import reactjs from "./tech/REACT.png";
+import next from "./tech/NEXT.jpg";
+import gsap from "./tech/GSAP.png";
 import threejs from "./tech/threejs.svg";
+import redux from "./tech/redux.png";
+import matrail from "./tech/matrail.png";
+import antdesign from "./tech/ant design.png";
+import git from "./tech/git.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import jobit from "./res.webp";
+import tripguide from "./ai.webp";
 
 export {
   logo,
@@ -40,22 +37,18 @@ export {
   menu,
   close,
   css,
-  docker,
-  figma,
+  gsap,
   git,
   html,
   javascript,
-  mongodb,
-  nodejs,
+  matrail,
+  next,
   reactjs,
   redux,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  antdesign,
   carrent,
   jobit,
   tripguide,
