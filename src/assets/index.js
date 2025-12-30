@@ -7,19 +7,19 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import html from "./tech/html.png";
-import css from "./tech/css.png";
-import tailwind from "./tech/tailwind.png";
-import javascript from "./tech/javascript.png";
-import typescript from "./tech/typescripy.png";
-// import react from "./tech/react.png";
-import next from "./tech/next.jpg";
-import gsap from "./tech/gsap.png";
-import threejs from "./tech/threejs.svg";
-import redux from "./tech/redux.png";
-import matrail from "./tech/matrail.png";
-import antdesign from "./tech/ant design.png";
-import git from "./tech/git.png";
+import html from "./tech/Html.png";
+import css from "./tech/Css.png";
+import tailwind from "./tech/Tailwind.png";
+import javascript from "./tech/Javascript.png";
+import typescript from "./tech/Typescripy.png";
+import react from "./tech/React.png";
+import next from "./tech/Next.jpg";
+import gsap from "./tech/Gsap.png";
+import threejs from "./tech/Threejs.svg";
+import redux from "./tech/Redux.png";
+import matrail from "./tech/Matrail.png";
+import antdesign from "./tech/Ant-design.png";
+import git from "./tech/Git.png";
 
 
 
@@ -43,7 +43,7 @@ export {
   javascript,
   matrail,
   next,
-  // react,
+  react,
   redux,
   tailwind,
   typescript,
