@@ -7,19 +7,19 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import html from "./tech/Html.png";
-import css from "./tech/Css.png";
-import tailwind from "./tech/Tailwind.png";
-import javascript from "./tech/Javascript.png";
-import typescript from "./tech/Typescripy.png";
-import react from "./tech/React.png";
-import next from "./tech/Next.jpg";
-import gsap from "./tech/Gsap.png";
-import threejs from "./tech/Threejs.svg";
-import redux from "./tech/Redux.png";
-import matrail from "./tech/Matrail.png";
-import antdesign from "./tech/Ant-design.png";
-import git from "./tech/Git.png";
+import Html from "./tech/Html.png";
+import Css from "./tech/Css.png";
+import Tailwind from "./tech/Tailwind.png";
+import Javascript from "./tech/Javascript.png";
+import Typescript from "./tech/Typescripy.png";
+import React from "./tech/React.png";
+import Next from "./tech/Next.jpg";
+import Gsap from "./tech/Gsap.png";
+import Threejs from "./tech/Threejs.svg";
+import Redux from "./tech/Redux.png";
+import Matrail from "./tech/Matrail.png";
+import Antdesign from "./tech/Ant-design.png";
+import Git from "./tech/Git.png";
 
 
 
@@ -36,19 +36,19 @@ export {
   github,
   menu,
   close,
-  css,
-  gsap,
-  git,
-  html,
-  javascript,
-  matrail,
-  next,
-  react,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
-  antdesign,
+  Css,
+  Gsap,
+  Git,
+  Html,
+  Javascript,
+  Matrail,
+  Next,
+  React,
+  Redux,
+  Tailwind,
+  Typescript,
+  Threejs,
+  Antdesign,
   carrent,
   jobit,
   tripguide,

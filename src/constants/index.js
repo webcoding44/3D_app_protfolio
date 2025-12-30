@@ -3,22 +3,22 @@ import {
   backend,
   creator,
   web,
-  javascript,
-  typescript,
-  html,
-  css,
-  react,
-  redux,
-  tailwind,
-  matrail,
- next,
-  gsap,
-  git,
-  antdesign,
+  Javascript,
+  Typescript,
+  Html,
+  Css,
+  React,
+  Redux,
+  Tailwind,
+  Matrail,
+ Next,
+  Gsap,
+  Git,
+  Antdesign,
   carrent,
   jobit,
   tripguide,
-  threejs,
+  Threejs,
 } from "../assets";
 
 export const navLinks = [
@@ -58,55 +58,55 @@ const services = [
 const technologies = [
   {
     name: "HTML 5",
-    icon: html,
+    icon: Html,
   },
   {
     name: "CSS 3",
-    icon: css,
+    icon: Css,
   },
   {
     name: "JavaScript",
-    icon: javascript,
+    icon: Javascript,
   },
   {
     name: "TypeScript",
-    icon: typescript,
+    icon: Typescript,
   },
   {
     name: "React JS",
-    icon: react,
+    icon: React,
   },
   {
     name: "Redux Toolkit",
-    icon: redux,
+    icon: Redux,
   },
   {
     name: "Tailwind CSS",
-    icon: tailwind,
+    icon: Tailwind,
   },
   {
     name: "Next JS",
-    icon: next,
+    icon: Next,
   },
   {
     name: "Material UI",
-    icon: matrail,
+    icon: Matrail,
   },
   {
     name: "Three JS",
-    icon: threejs,
+    icon: Threejs,
   },
   {
     name: "git",
-    icon: git,
+    icon: Git,
   },
   {
     name: "Ant Design",
-    icon: antdesign,
+    icon: Antdesign,
   },
   {
     name: "Gsap",
-    icon: gsap,
+    icon: Gsap,
   },
 ];
 
