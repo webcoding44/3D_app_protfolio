@@ -12,7 +12,7 @@ import css from "./tech/css.png";
 import tailwind from "./tech/tailwind.png";
 import javascript from "./tech/javascript.png";
 import typescript from "./tech/typescripy.png";
-import react from "./tech/react.png";
+// import react from "./tech/react.png";
 import next from "./tech/next.jpg";
 import gsap from "./tech/gsap.png";
 import threejs from "./tech/threejs.svg";
@@ -43,7 +43,7 @@ export {
   javascript,
   matrail,
   next,
-  react,
+  // react,
   redux,
   tailwind,
   typescript,
