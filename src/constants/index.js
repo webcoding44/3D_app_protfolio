@@ -176,4 +176,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, projects };
+export { services, projects };
